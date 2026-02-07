@@ -1,28 +1,51 @@
-# Finance Templates
+# Finance Operating Manual & Control Environment
 
 ## Overview
-This repository contains practical finance templates used in
-operational and strategic finance roles.
+This repository presents a practical finance operating model built from
+real-world Financial Accountant and Finance Manager responsibilities.
 
-## Included
-• Budgeting models
-• Management reporting packs
-• Month-end close checklists
-• Board reporting templates
-• Finance SOPs
+It demonstrates how finance moves from transaction capture through to
+controlled reporting, statutory compliance, audit support, and risk
+escalation.
 
-## Finance Operating Model
+The focus is on **repeatability, governance, and evidence**.
 
-This repository is structured to reflect how a controlled finance
-function operates from transaction capture through to reporting,
-audit evidence, and risk escalation.
+---
 
-Capture → Validate → Reconcile → Close → Report → Govern
+## What This Repository Contains
+• Month-end close framework  
+• General ledger and journal governance  
+• Balance sheet reconciliation discipline  
+• Revenue recognition and cut-off controls  
+• VAT and tax compliance  
+• Payroll and contractor validation  
+• Accrual and prepayment mechanics  
+• Post-close adjustment governance  
+• Cash and banking oversight  
+• Audit evidence and document retention  
+• Risk management and escalation procedures  
+
+Together, these components form a complete finance control environment.
+
+---
+
+## 🧭 Finance Operating Process Flow
+
+The structure of this repository follows the lifecycle of financial
+information within an organisation.
+
+
+Each SOP folder contains:
+• the governing policy  
+• operational checklists  
+• execution evidence  
+
+---
 
 ## 📁 Repository Navigation
 
 ### Core Close & Reporting
-- [Month-End Close](./01%20-%20Month-End%20Close/)
+- [SOP 01 – Month-End Close](./01%20-%20Month-End%20Close/)
 - [SOP 02 – General Ledger & Journal Entries](./02%20-%20General%20Ledger%20%26%20Journal%20Entries/)
 - [SOP 03 – Balance Sheet Reconciliations](./03%20-%20Balance%20Sheet%20Reconciliations/)
 - [SOP 04 – Revenue Recognition & Cut-Off](./04%20-%20Revenue%20Recognition%20%26%20Cut-Off/)
@@ -42,17 +65,33 @@ Capture → Validate → Reconcile → Close → Report → Govern
 ### Governance
 - [SOP 11 – Controls & Escalation](./11%20-%20Controls%20%26%20Escalation/)
 
+---
+
 ## 🚀 Where to Start
 If you are new to the repository, begin with:
 
 👉 **SOP 01 – Month-End Close**
 
-It provides the backbone that connects all other finance processes.
+It provides the backbone that links journals, reconciliations,
+compliance, reporting, and governance.
 
-## Tools
-Excel, PDF
+---
+
+## Who This Is For
+• Finance Managers  
+• Financial Controllers  
+• Accountants  
+• Auditors  
+• Operators building structured finance environments  
+
+---
+
+## Tools Used
+Primarily Excel-based operational control tools supported by Word/PDF
+documentation.
+
+---
 
 ## Disclaimer
-All data is anonymised or dummy data.
-For portfolio and educational purposes only.
-
+All content uses anonymised or dummy information and is provided for
+portfolio and educational purposes only.
