@@ -22,7 +22,7 @@ Capture → Validate → Reconcile → Close → Report → Govern
 ## 📁 Repository Navigation
 
 ### Core Close & Reporting
-- [SOP 01 – Month-End Close](./01%20-%20Month-End%20Close/)
+- Month-End Close](./01%20-%20Month-End%20Close/)
 - [SOP 02 – General Ledger & Journal Entries](./02%20-%20General%20Ledger%20%26%20Journal%20Entries/)
 - [SOP 03 – Balance Sheet Reconciliations](./03%20-%20Balance%20Sheet%20Reconciliations/)
 - [SOP 04 – Revenue Recognition & Cut-Off](./04%20-%20Revenue%20Recognition%20%26%20Cut-Off/)
