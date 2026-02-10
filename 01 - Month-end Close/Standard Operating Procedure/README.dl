@@ -1,46 +1,44 @@
-# 📘 SOP 01 – Month-End Close  
+# 📘 SOP 01 – Month-End Close Process  
 **Location:** `finance-templates/01 - Month-end Close/Standard Operating Procedure`
 
 ## Overview
 This directory contains the official Standard Operating Procedure governing the execution of the month-end close.
 
-The aim is to:
+The objective is to ensure reporting is:
 
-- protect financial integrity  
-- ensure completeness and accuracy  
-- deliver timely reporting  
-- maintain audit defensibility  
-- prevent uncontrolled or undocumented changes  
+- accurate  
+- complete  
+- timely  
+- repeatable  
+- audit defensible  
 
-This is the foundation of the finance control environment.
+The close process is the backbone of financial control.
 
 ---
 
 ## What This SOP Covers
-The procedure defines mandatory rules for:
+The procedure establishes mandatory governance for:
 
 - Roles and responsibilities  
-- Task ownership and lifecycle  
 - Status progression  
-- RAG risk monitoring  
-- Evidence standards  
-- Estimates and judgement areas  
+- Risk visibility  
+- Evidence requirements  
+- Treatment of estimates  
 - Dependency management  
-- Post-close adjustment governance  
+- Post-close discipline  
 - Version control  
 
-It applies to **all entities**, **all reporting periods**, and **all close activities**.
+It applies to **all entities and reporting periods**.
 
 ---
 
 ## Repository Contents
 
 ### 📄 Main SOP Document
-**SOP_01_Month_End_Close_Process.docx**  
-Formal control document defining responsibilities, workflow, approvals, and documentation expectations.
+- **SOP_01_Month_End_Close_Process.docx**  
+  Defines the operating model, approval expectations, and control requirements.
 
 **Document metadata**
-
 - Version: 1.0  
 - Effective Date: 03 February 2026  
 - Document Owner: Armand Slabbert  
@@ -49,46 +47,96 @@ Formal control document defining responsibilities, workflow, approvals, and docu
 
 ## Control Principles Embedded in This SOP
 
-### 1) Repeatability  
-The close must follow a consistent, structured process every month.
+### 1) Repeatability
+The close should run the same way every period.
 
-### 2) Evidence First  
-If a task cannot be supported, it is not complete.
+### 2) No Surprises
+Risk must be visible through status and RAG.
 
-### 3) Independent Review  
-Preparation and approval must be segregated.
+### 3) Evidence Matters
+Every number must be supportable.
 
-### 4) Transparency  
-Progress, risks, and changes must be visible.
+### 4) Segregation of Duties
+Preparation and review are separate.
 
-### 5) Controlled Change  
-Post-preparation and post-close changes require approval.
+### 5) Locked Governance
+Templates and processes cannot change informally.
+
+---
+
+## Core Activities in This SOP
+
+### Roles & Accountability
+- preparers execute  
+- reviewers validate  
+- management approves exceptions  
+
+### Close Infrastructure
+- locked master template  
+- controlled working copy  
+- assumptions framework  
+
+### Status & RAG
+- tasks move through defined stages  
+- risk visibility is mandatory  
+
+### Accuracy & Completeness
+- tie to source systems  
+- maintain references  
+- capture sign-offs  
+
+### Estimates & Exceptions
+- must be documented  
+- require approval  
+
+### Dependencies
+- must be satisfied before review  
+
+### Post-Close
+- exceptional and controlled  
+
+### Evidence Retention
+- structured storage required  
+
+### Version Control
+- changes require authorisation  
+
+---
+
+## Close Timeline
+The standard close cycle typically spans **ten working days**, unless otherwise approved.
 
 ---
 
 ## When To Use This Document
-Use this SOP whenever you are:
+Use this SOP when:
 
-- Running the month-end process  
-- Assigning responsibilities  
-- Tracking close progress  
-- Managing risks and delays  
-- Preparing audit support  
-- Training finance team members  
-- Assessing control effectiveness  
-
----
-
-## Typical Close Duration
-The close cycle typically spans **approximately ten working days**, depending on business complexity and system readiness.
+- running the monthly close  
+- assigning responsibilities  
+- tracking completion  
+- preparing audit evidence  
+- onboarding finance staff  
+- evaluating readiness to report  
 
 ---
 
-## Expected Outcomes
-Following this SOP should result in:
+## Expected Outputs From Following This SOP
+Proper execution should produce:
 
-- Predictable close timelines  
-- Reduced surprises  
-- Stronger accountability  
-- Cleaner audits  
-- Higher confidence in reported numbers  
+- predictable close cycles  
+- fewer late adjustments  
+- stronger audit outcomes  
+- improved management trust  
+- faster reporting delivery  
+
+---
+
+## Related Items (Recommended)
+Directly linked with:
+
+- Journal entry procedures  
+- Balance sheet reconciliations  
+- Prepayments and accruals  
+- Post-close adjustments  
+- Document retention standards  
+- Controls & escalation  
