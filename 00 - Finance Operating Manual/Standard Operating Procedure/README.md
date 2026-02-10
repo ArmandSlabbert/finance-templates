@@ -30,7 +30,7 @@ This manual applies to all finance processes including:
 ## Structure of the Manual
 
 ### Core Finance Processes
-• **SOP 01** – Month-End Close
+• **SOP 01** – Month-End Close   
 • **SOP 02** – General Ledger & Journal Entries  
 • **SOP 03** – Balance Sheet Reconciliations  
 
