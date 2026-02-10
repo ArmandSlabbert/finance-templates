@@ -1,138 +1,44 @@
-# 📘 SOP 01 – Month-End Close  
-**Location:** `finance-templates/01 - Month-end Close/Standard Operating Procedure`
+#  SOP 01 – Month-End Close
 
 ## Overview
-This directory contains the official Standard Operating Procedure governing the execution of the month-end close.
+This Standard Operating Procedure governs the execution of the
+month-end close to ensure financial information is accurate,
+complete, timely, and fully supportable.
 
-The objective is to provide a **controlled, repeatable, and audit-defensible** process that delivers financial information which is:
+The SOP establishes a controlled and repeatable framework
+for preparing, reviewing, and approving close activities.
 
-- accurate  
-- complete  
-- timely  
-- properly reviewed  
+## Key Areas
+• Roles and responsibilities  
+• Close workflow and task lifecycle  
+• Status and RAG monitoring  
+• Evidence and documentation requirements  
+• Estimates and exception handling  
+• Dependency management  
+• Post-close adjustment governance  
+• Version control and approvals  
 
-This SOP forms the foundation for all other finance control procedures.
+## Close Framework
+• Locked master template  
+• Controlled working files  
+• Assumption tracking  
+• Evidence hierarchy  
+• Structured sign-off  
 
----
+## Control Philosophy
+• No task is complete without evidence  
+• Independent review is mandatory  
+• Changes after preparation require visibility  
+• Risk and materiality drive escalation  
 
-## What This SOP Covers
-The procedure defines mandatory standards for:
+## Timeline
+The standard close cycle typically spans approximately
+ten working days, depending on complexity.
 
-- Roles and responsibilities  
-- Task lifecycle management  
-- RAG risk visibility  
-- Evidence and documentation  
-- Treatment of estimates  
-- Dependency management  
-- Post-close adjustments  
-- Version control  
-- Governance and approval  
+## Standards
+IFRS – Fair Presentation & Accrual Accounting  
+IAS 1 – Presentation of Financial Statements  
 
-It applies to **all close activities**, **all entities**, and **all reporting periods**.
-
----
-
-## Repository Contents
-
-### 📄 Main SOP Document
-- **SOP_01_Month_End_Close_Process.docx**  
-  Defines how the close must be executed, evidenced, reviewed, and approved.
-
-**Document metadata**
-- Version: 1.0  
-- Effective Date: 03 February 2026  
-- Document Owner: Armand Slabbert  
-
----
-
-## Core Control Principles Embedded in This SOP
-
-### 1) Repeatability
-The close must follow a consistent structure every month.
-
-### 2) Transparency
-All numbers must be traceable to source systems and support.
-
-### 3) Accountability
-Clear ownership exists for preparation, review, and approval.
-
-### 4) No Silent Changes
-Once prepared, changes require visibility and control.
-
-### 5) Risk Awareness
-RAG and materiality determine management attention.
-
----
-
-## The Close Operating Model
-The framework typically includes:
-
-- Locked master template  
-- Controlled working files  
-- Assumption tracking  
-- Documented evidence locations  
-- Defined approval workflow  
-
----
-
-## Status & Risk Philosophy
-Tasks progress through formal statuses and must not advance without meeting control requirements.
-
-RAG indicators provide management with immediate visibility of execution risk.
-
----
-
-## Post-Close Discipline
-Adjustments after close are **exceptional**, require approval, and must maintain a full audit trail.
-
----
-
-## Evidence Requirements
-Every task must demonstrate:
-
-- Source of data  
-- Calculation or reconciliation  
-- Journal linkage (if applicable)  
-- Reviewer evidence  
-- Completion date  
-
-If it cannot be evidenced → it is not complete.
-
----
-
-## Typical Close Duration
-The standard close cycle is approximately **10 working days**, subject to business complexity.
-
----
-
-## When To Use This Document
-Use this SOP when:
-
-- Running the month-end process  
-- Allocating responsibilities  
-- Monitoring progress  
-- Preparing audit support  
-- Training new team members  
-- Evaluating control effectiveness  
-
----
-
-## Expected Outputs From Following This SOP
-If followed properly, you should achieve:
-
-- Faster closes  
-- Fewer surprises  
-- Reduced audit findings  
-- Better management visibility  
-- Stronger financial confidence  
-
----
-
-## Related Items (Recommended)
-This SOP sits above and connects to:
-
-- General ledger journal procedures  
-- Balance sheet reconciliations  
-- Revenue recognition & cut-off  
-- Delegation of authority  
-- Reporting packs  
+## Disclaimer
+This SOP uses dummy data and is provided for portfolio
+and educational purposes only.
