@@ -1,40 +1,90 @@
-# Month-End Close – Checklists
+# Month End Close
 
 ## Overview
-This folder contains operational checklists used to execute and
-evidence the month-end close process.
+This repository contains the structured framework and operational tools used to manage the **month-end close process** within a disciplined finance environment.
 
-The checklists are designed to support consistency, accountability,
-and audit readiness by tracking task completion, ownership, and review
-throughout the close cycle.
+The objective is to ensure financial results are produced in a manner that is:
 
-## Purpose of Checklists
-The checklists translate documented procedures into practical,
-repeatable actions performed during each reporting period.
+- accurate  
+- complete  
+- timely  
+- reviewed  
+- supportable  
 
-They are used to:
+The close methodology promotes consistency, accountability, and audit readiness.
 
-• Track progress against the close timetable  
-• Assign responsibility for each activity  
-• Evidence completion and review  
-• Support internal and external audit requirements  
+---
 
-## Contents
-• **Month_End_Close_Checklist.xlsx**  
-  A detailed, step-by-step checklist covering key month-end close
-  activities, including journals, reconciliations, reviews, and
-  sign-off.
+## Repository Structure
 
-## How This Fits Into the Process
-• The **SOP** defines *what* must be done and *why*  
-• The **checklist** shows *how* and *when* tasks are completed  
+### 📁 Checklist  
+A period-based tracker that monitors task progress, ownership, dependencies, and completion across the close cycle.
 
-Together, they form part of the organisation’s Finance Operating Manual.
+### 📁 Standard Operating Procedure  
+Defines responsibilities, timelines, control requirements, and documentation expectations for each stage of the close.
 
-## Usage
-Checklists are updated during each close cycle and retained as
-supporting documentation for management review and audit purposes.
+---
 
-## Disclaimer
-These checklists use dummy data and are provided for portfolio and
-educational purposes only.
+## Scope of the Close
+
+The process typically includes:
+
+- revenue completeness checks  
+- expense recognition  
+- accruals and provisions  
+- payroll postings  
+- reconciliations  
+- review of key estimates  
+- management reporting preparation  
+
+---
+
+## Close Lifecycle
+
+Activities move through controlled stages to protect the integrity of financial reporting.
+
+**Not Started → In Progress → Prepared → Under Review → Completed / Approved**
+
+No deliverable is final without reviewer confirmation.
+
+---
+
+## Core Control Principles
+
+✔ Defined responsibilities  
+✔ Structured timelines  
+✔ Independent review  
+✔ Evidence-based outputs  
+✔ Clear dependency management  
+✔ Repeatable monthly execution  
+
+---
+
+## Success Measures
+
+A well-run close should achieve:
+
+- minimal post-close adjustments  
+- supported balance sheet positions  
+- timely management reporting  
+- reduced audit findings  
+
+---
+
+## Intended Users
+
+Designed for:
+
+- Finance Managers  
+- Financial Controllers  
+- CFOs  
+- FP&A teams  
+- Auditors  
+
+---
+
+## Outcome
+
+When applied consistently, the month-end process becomes:
+
+**predictable, controlled, and reliable.**
