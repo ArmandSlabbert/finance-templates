@@ -17,7 +17,7 @@ Defines payroll governance, responsibilities, statutory obligations,
 and approval requirements.
 
 ### Operational Checklist
-• **SOP_06_Payroll_and_Independent_Contractors_Checklist.xlsx**  
+• **Payroll_and_Independent_Contractors_Checklist.xlsx**  
 A structured control checklist used to validate payroll inputs,
 calculations, approvals, and payment execution.
 
